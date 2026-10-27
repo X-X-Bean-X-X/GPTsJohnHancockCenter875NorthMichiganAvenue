@@ -23,3 +23,7 @@ The playable asset remains available through Paradox Mods. This source publicati
 Current public package SHA-256: `0ad41aabfd2676d9d5566af7498b695a89dbc1beb36bc453a08fd2ca8e06ce4b`. Both the public download and its inner package passed ZIP integrity checks. Source archives were checked after creation.
 
 No additional reuse license is granted by this source publication.
+
+## Footprint attribution
+
+Footprint inputs derived from OpenStreetMap are copyright OpenStreetMap contributors and remain subject to ODbL 1.0. See https://www.openstreetmap.org/copyright. Existing third-party data terms are not replaced by this repository's source-availability notice.
