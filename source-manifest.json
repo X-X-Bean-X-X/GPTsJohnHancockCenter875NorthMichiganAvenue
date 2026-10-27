@@ -1,0 +1,129 @@
+{
+  "asset": "GPT's John Hancock Center | 875 North Michigan Avenue",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.1.0",
+  "publishedPackageSHA256": "0ad41aabfd2676d9d5566af7498b695a89dbc1beb36bc453a08fd2ca8e06ce4b",
+  "authoringFiles": [
+    {
+      "path": "Evidence/footprint-live-networks-before.json",
+      "bytes": 19611783,
+      "sha256": "2dcc14e67652248c8aab24f8782ca049ad068f994059b59f39df187dfc2b6242"
+    },
+    {
+      "path": "Evidence/footprint-map-scale-controls.json",
+      "bytes": 11025,
+      "sha256": "3475d9d2dbaef768ac82184dd6a05b196c7a863c98172a52ce8fa9afb37ce5d3"
+    },
+    {
+      "path": "Evidence/footprint-osm-building-parts.json",
+      "bytes": 36360,
+      "sha256": "7902d56b02ae7c40e1b9c2d2bca83c777ef36e93909a0a61259d93b7f4160f5c"
+    },
+    {
+      "path": "Evidence/footprint-osm-buildings.json",
+      "bytes": 151012,
+      "sha256": "5664bf53496318cc5a5d09d48df2a7cd0e4daa3ff3af9b016410036561752dcd"
+    },
+    {
+      "path": "Evidence/footprint-osm-roads.json",
+      "bytes": 35903,
+      "sha256": "41363c80d1c3314955c13c60fbfb1503a126d184707a245d22515ad5e323fcfa"
+    },
+    {
+      "path": "Evidence/footprint-projected-building.json",
+      "bytes": 46124,
+      "sha256": "068194a52633592ef49ca555785ec7a637fe316600ecdd4457633fbc5db831e1"
+    },
+    {
+      "path": "Evidence/footprint-scale-verification.json",
+      "bytes": 9406,
+      "sha256": "a9f37e603eff1f159fef26311ce8d91e2b65c9b884e5a656f2df60cbada2b5d7"
+    },
+    {
+      "path": "Evidence/reference_dimensions.json",
+      "bytes": 1415,
+      "sha256": "94f802844bfd3e87e96a3b4a672f67618b1e6959023e3a11d7e5e3a0b23b396c"
+    },
+    {
+      "path": "Evidence/test-site.json",
+      "bytes": 2878,
+      "sha256": "1599b16263383b58c256ef0eb056d512f4dd9de1120423757e62a1ae1ade9dae"
+    },
+    {
+      "path": "Scripts/HWLHancockCreate20261020_v1.cs",
+      "bytes": 4726,
+      "sha256": "ebf3edc300a2282fcda68557a4594d13756e7aaa46d8a6cb1b5422ad3fca4db1"
+    },
+    {
+      "path": "Scripts/HWLHancockCreate20261020_v2.cs",
+      "bytes": 4758,
+      "sha256": "b697bb282f2a49a0c0c91e31adf7b620a8e63a6c5523950f3e72825b6269346f"
+    },
+    {
+      "path": "Scripts/HWLHancockLighting20261020_v1.cs",
+      "bytes": 4612,
+      "sha256": "06332e7444ebcf3b07b2ff7cceb3f3883da52835b08d7f752ff8c5e4e8394b08"
+    },
+    {
+      "path": "Scripts/HWLHancockNativePower20261020_v1.cs",
+      "bytes": 3901,
+      "sha256": "1b0bacfbbf67b5b20e253333485f1d9caaed84044aa7c369dd8a10cb54478868"
+    },
+    {
+      "path": "Scripts/HWLHancockNativePower20261020_v2.cs",
+      "bytes": 3942,
+      "sha256": "c30266e50d0ae191b2f1ebb99586e842f0cb0586450b5dba8b7f00d366dd1a34"
+    },
+    {
+      "path": "Scripts/HWLHancockTestNativePower20261022_v1.cs",
+      "bytes": 4212,
+      "sha256": "85e22f08d2d4a696fa844d18424f431d0e743710417af36f516468e75f1f736a"
+    },
+    {
+      "path": "Scripts/HWLHancockTestNativePower20261022_v2.cs",
+      "bytes": 4212,
+      "sha256": "f7f37a19329f2d1b272f93bcbe5b882c1a330e7cb855262fafa9a5934f47af32"
+    },
+    {
+      "path": "Scripts/build_hancock.py",
+      "bytes": 10986,
+      "sha256": "a135f5b4bbc22e3103bbd9d7f67a6b2f7d0ee8ad3e6d1e3f52ece899ea6e47e2"
+    },
+    {
+      "path": "Scripts/build_hancock_v002.py",
+      "bytes": 11163,
+      "sha256": "d528b6d2e7c896cec25580bcbc341234b17b91d29c5f2a0f5def16ac90e71c91"
+    },
+    {
+      "path": "Source/X_Bean_X_JohnHancockCenter_v001.blend",
+      "bytes": 801350,
+      "sha256": "02a8773f5714f1c979730249811fe835f7e0f62bdb51d5c2a593a91aa01302d6"
+    },
+    {
+      "path": "Source/X_Bean_X_JohnHancockCenter_v002.blend",
+      "bytes": 801374,
+      "sha256": "3efee68af1ac6c3435920645139e3b0bb4faa12ae8230215c72db46b635982e5"
+    },
+    {
+      "path": "Textures/JHC_BaseColor.png",
+      "bytes": 683483,
+      "sha256": "ee2938a963020662bd0546371abb02da0d790db96689a6acc69cac91849f2c0f"
+    },
+    {
+      "path": "Textures/JHC_ControlMask.png",
+      "bytes": 18578,
+      "sha256": "82625fa08961e9f5ac5a8dd2b6d89607f5359eb50c72a35f6cae57c449bd5c6a"
+    },
+    {
+      "path": "Textures/JHC_MaskMap.png",
+      "bytes": 21509,
+      "sha256": "b33055c3674c87268e54c5936b428e5a75968eb5b26937b004358946da51f9f0"
+    },
+    {
+      "path": "Textures/JHC_Normal.png",
+      "bytes": 20723,
+      "sha256": "2a37097d002c7245b2a672ff0336249e5af2653458bc882bd86d30d9558ab784"
+    }
+  ],
+  "nativeDefinitionFiles": 51
+}
